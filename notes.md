@@ -5,7 +5,7 @@ This notebook was created for study purposes and as a source to come back to whe
 
 ---
 
-### Main function
+## Main function
 
 ```kotlin
 fun main() {
@@ -15,20 +15,20 @@ fun main() {
 >The main function is the entry point of the program
 
 
-### Printing
+## Printing
 
 ```kotlin
 println("Hello world!") // adds a new line after printing
 print("Hellow world!") // doesn't add a new line after printing
 ```
 
-### Declaring variables
+## Declaring variables
 
 > Kotlin uses the CamelCase naming convention
 
 In kotlin, we have 3 ways of declaring variables. var, val, and const?
 
-***var:***
+### ***var:***
 
 ```kotlin
 var name:String = "John"
@@ -42,7 +42,7 @@ var name = "John"
 
 > Kotlin is a statically typed programming language, so you will get an error immediately if you try to assign the wrong type to your variable
 
-***val:***
+### ***val:***
 
 Declaring variables using val means that they cannot be changed later
 
@@ -62,12 +62,49 @@ var name:String = "John"
 println("Hello $name!")
 ```
 
-## Loops
+# Kotlin Data Types
+
+In Kotlin, data types are categorized into different groups:
+
+## Numbers
+
+Numbers include both integer and floating-point types.
+
+### Integer Types
+
+Integer types store whole numbers without decimals.
+
+- **Byte**: Whole numbers from -128 to 127.
+- **Short**: Whole numbers from -32768 to 32767.
+- **Int**: Whole numbers from -2147483648 to 2147483647.
+- **Long**: Whole numbers from -9223372036854775808 to 9223372036854775807.
+
+### Floating-Point Types
+
+Floating-point types represent numbers with a fractional part.
+
+- **Float**: Decimal values with a precision of about six or seven decimal digits.
+- **Double**: Decimal values with a precision of about 15 digits.
+
+## Characters
+
+The `Char` data type is used to store single characters.
+
+## Booleans
+
+The `Boolean` data type represents one bit of information either true or false.
+
+## Strings
+
+The `String` data type is used to store a sequence of characters.
+
+## Arrays
+
+The `Array` data type is used to store multiple values of the same type.
+
+
+## For loop
 
 
 
-### For loop
-
-
-
-### While loop
+## While loop
