@@ -1,5 +1,6 @@
 # Kotlin-Notes
-Digital notebook for Kotlin
+
+This repository is dedicated to learning the kotlin programming language. So why learn kotlin?
 
 Kotlin, a programming language, has seen a significant surge in popularity among developers over the past four years, particularly after Google’s #IO17 announcement endorsing it as an official language for Android applications. So, what sets this language apart?
 
