@@ -29,7 +29,9 @@ Code
 
 Horizontal Rule
 ---
+
 Link	[title](https://www.example.com)
+
 Image	![alt text](image.jpg)
 
 Table	
@@ -47,6 +49,7 @@ Fenced Code Block
 }
 ```
 Footnote	
+
 Here's a sentence with a footnote. [^1]
 [^1]: This is the footnote.
 
