@@ -21,3 +21,17 @@ fun main() {
 println("Hello world!") // adds a new line after printing
 print("Hellow world!") // doesn't add a new line after printing
 ```
+
+### Declaring variables
+
+
+
+## Loops
+
+
+
+### For loop
+
+
+
+### While loop
