@@ -28,19 +28,21 @@ print("Hellow world!") // doesn't add a new line after printing
 
 In kotlin, we have 3 ways of declaring variables. var, val, and const?
 
-***var***
-
-```kotlin
-var name = "John"
-```
-This way of declaring variables is fine, but we know that kotlin was created to be type safe, so we can decale the variable with its type as so:
+***var:***
 
 ```kotlin
 var name:String = "John"
 ```
+
+This way of declaring variables is fine, but we don't need to always explicitly state the type of the variable, as kotlin has type inference. So we can just declare it at so:
+
+```kotlin
+var name = "John"
+```
+
 > Kotlin is a statically typed programming language, so you will get an error immediately if you try to assign the wrong type to your variable
 
-***val***
+***val:***
 
 Declaring variables using val means that they cannot be changed later
 
