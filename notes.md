@@ -28,7 +28,7 @@ print("Hellow world!") // doesn't add a new line after printing
 
 In kotlin, we have 3 ways of declaring variables. var, val, and const?
 
-** var **
+**var**
 
 ```kotlin
 var name = "John"
@@ -40,7 +40,7 @@ var name:String = "John"
 ```
 > Kotlin is a statically typed programming language, so you will get an error immediately if you try to assign the wrong type to your variable
 
-** val **
+**val**
 
 Declaring variables using val means that they cannot be changed later
 
