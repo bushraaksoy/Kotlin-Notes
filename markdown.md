@@ -6,9 +6,11 @@ Heading
 ### H3
 ---
 Bold	
+
 **bold text**
 ---
 Italic	
+
 *italicized text*
 ---
 Blockquote	
