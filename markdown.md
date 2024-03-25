@@ -22,8 +22,11 @@ Unordered List
 - First item
 - Second item
 - Third item
+  
 Code
+
 `code`
+
 Horizontal Rule
 ---
 Link	[title](https://www.example.com)
