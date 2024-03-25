@@ -13,3 +13,11 @@ fun main() {
 }
 ```
 >The main function is the entry point of the program
+
+
+### Printing
+
+```kotlin
+println("Hello world!") // adds a new line after printing
+print("Hellow world!") // doesn't add a new line after printing
+```
