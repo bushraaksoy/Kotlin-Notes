@@ -86,7 +86,7 @@ Floating-point types represent numbers with a fractional part.
 - **Float**: Decimal values with a precision of about six or seven decimal digits.
 - **Double**: Decimal values with a precision of about 15 digits.
 
-  others include characters, boolean, strings and arrays
+  Other types include characters, booleans, strings and arrays
   `Char` `Boolean ` `String` `Array`
 
 ## For loop
