@@ -86,23 +86,6 @@ Floating-point types represent numbers with a fractional part.
 - **Float**: Decimal values with a precision of about six or seven decimal digits.
 - **Double**: Decimal values with a precision of about 15 digits.
 
-## Characters
-
-The `Char` data type is used to store single characters.
-
-## Booleans
-
-The `Boolean` data type represents one bit of information either true or false.
-
-## Strings
-
-The `String` data type is used to store a sequence of characters.
-
-## Arrays
-
-The `Array` data type is used to store multiple values of the same type.
-
-
 ## For loop
 
 
