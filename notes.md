@@ -5,7 +5,7 @@ This notebook was created for study purposes and as a source to come back to whe
 
 ---
 
-### Functions
+### Main function
 
 ```kotlin
 fun main() {
